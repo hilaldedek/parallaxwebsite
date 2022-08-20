@@ -1,0 +1,194 @@
+@import url("https://fonts.googleapis.com/css2?family=Aboreto&family=Audiowide&family=Bowlby+One+SC&family=Courgette&family=Dosis:wght@200;400&family=EB+Garamond:wght@500&family=Lobster&family=Martel:wght@700&family=Righteous&family=Roboto:wght@100&family=Sorts+Mill+Goudy:ital@1&family=Uchen&display=swap");
+body {
+  font-family: "Lato", sans-serif;
+}
+h3 {
+  font-size: 35px;
+}
+p {
+  font-size: 1.2rem;
+}
+h1 {
+  font-size: 48px;
+}
+.clarusway h1 {
+  /* border: 2px solid chartreuse; */
+  color: #ffffff;
+  text-align: center;
+  background-color: #282e34;
+  color: #fff;
+  padding-top: 40px;
+  border-top-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  outline: 15px inset purple;
+  text-transform: uppercase;
+  outline-offset: 15px;
+  /* border: 0; */
+  width: 500px;
+  height: 100px;
+  margin-left: 400px;
+  margin-bottom: -100px;
+  position: relative;
+  top: 14rem;
+  /* border-color: rgb(77, 77, 77); */
+}
+
+.first {
+  background-image: url(./img/bg.jpg);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 650px;
+  margin: -40px -8px 0px -8px;
+}
+.first .first-in {
+  border: 2px solid #f1f1f1;
+  background-color: #f1f1f1;
+  color: #666666;
+  text-align: center;
+  height: 200px;
+  width: auto;
+  margin-top: 477px;
+  position: relative;
+  top: 8rem;
+  padding: 5rem;
+}
+
+.second {
+  background-image: url(./img/bg2.jpg);
+  margin: 350px -8px -20px -8px;
+  height: 650px;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.second img {
+  width: 405px;
+  height: 85px;
+  margin: 250px 450px 250px;
+}
+.second .second-in {
+  background-color: #282e34;
+  color: #dddddd;
+  text-align: center;
+  border: 2px solid #282e34;
+  height: 230px;
+  padding: 50px 60px 0 60px;
+  /* margin-bottom: 900px; */
+  position: relative;
+  top: 3rem;
+}
+
+.third {
+  background-image: url(./img/bg3.jpg);
+  margin: 290px -8px -20px -8px;
+  height: 500px;
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.third h1 {
+  color: #ffffff;
+  text-align: center;
+  background-color: #282e34;
+  color: #fff;
+  padding-top: 35px;
+  border-top-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  outline: 15px inset purple;
+  text-transform: uppercase;
+  outline-offset: 15px;
+  border: 0;
+  width: 780px;
+  height: 100px;
+  margin-left: 400px;
+  position: relative;
+  top: 11rem;
+  right: 7rem;
+}
+.third .third-in {
+  background-color: #f1f1f1;
+  color: #666666;
+  text-align: center;
+  border: 2px solid #f1f1f1;
+  margin-top: 360px;
+  height: 280px;
+  position: relative;
+  bottom: 1.5rem;
+
+  /* padding: 3rem 5rem; */
+}
+.fourth {
+  background-image: url(./img/bg4.jpg);
+  margin: 270px -8px -20px -8px;
+  height: 500px;
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.fourth .fourth-in {
+  background-color: #282e34;
+  color: #dddddd;
+  text-align: center;
+  border: 2px solid #282e34;
+  margin-top: 365px;
+  height: 300px;
+  padding: 3rem 5rem;
+  position: relative;
+  bottom: 2rem;
+}
+.fourth h1 {
+  color: #ffffff;
+  text-align: center;
+  background-color: #282e34;
+  color: #fff;
+  padding-top: 35px;
+  border-top-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  outline: 15px inset purple;
+  text-transform: uppercase;
+  outline-offset: 15px;
+  border: 0;
+  width: 500px;
+  height: 100px;
+  margin-left: 400px;
+  position: relative;
+  top: 12rem;
+}
+.fifth {
+  background-image: url(./img/bg.jpg);
+  margin: 323px -8px -20px -8px;
+  height: 500px;
+  min-height: 650px;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.fifth h1 {
+  color: #ffffff;
+  text-align: center;
+  background-color: #282e34;
+  color: #fff;
+  padding: 5px;
+  border-top-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  outline: 15px inset purple;
+  text-transform: uppercase;
+  outline-offset: 15px;
+  border: 0;
+  width: 600px;
+  padding-top: 3rem;
+  height: 100px;
+  margin-left: 400px;
+  position: relative;
+  top: 15rem;
+  right: 2rem;
+}
